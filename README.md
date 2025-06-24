@@ -5,7 +5,7 @@
 ![image](https://github.com/user-attachments/assets/29506273-5598-4af4-9309-7167023e15f0)
 ![image](https://github.com/user-attachments/assets/89d1baaa-12a0-4a9b-bb2d-c1af971ba947)
 
-📌 Project Objective
+📌 Project Objective :
 This project showcases my ability to analyze supplier master data with a focus on data quality, freshness, and GDPR compliance.
 The use case simulates a luxury industry context, where data accuracy and regulatory compliance are essential. The goal is to deliver a dashboard that supports data governance and drives decision-making.
 
