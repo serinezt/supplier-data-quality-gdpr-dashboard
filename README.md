@@ -1,4 +1,6 @@
 🧾 Supplier Data Quality & GDPR Compliance Dashboard – Luxury Sector
+
+
 ![image](https://github.com/user-attachments/assets/59b164ec-01dc-409c-af15-aa1e468227d1)
 ![image](https://github.com/user-attachments/assets/29506273-5598-4af4-9309-7167023e15f0)
 ![image](https://github.com/user-attachments/assets/89d1baaa-12a0-4a9b-bb2d-c1af971ba947)
