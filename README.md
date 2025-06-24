@@ -20,67 +20,72 @@ The use case simulates a luxury industry context, where data accuracy and regula
 
 🧱 Project Structure
 1. Data Simulation (Python)
-Created a dataset of 1,000 suppliers
+- Created a dataset of 1,000 suppliers
 
-Fields: Supplier Name, Email, VAT Number, Country, Compliance_RGPD, Last Updated Date
+- Fields: Supplier Name, Email, VAT Number, Country, Compliance_RGPD, Last Updated Date
 
-Random but realistic value assignment for each field
+- Random but realistic value assignment for each field
 
 2. KPI & Score Calculation
 Data Quality Score (0 to 100), based on:
 
-Valid Email
+- Valid Email
 
-VAT Number present
+- VAT Number present
 
-Valid Country
+- Valid Country
 
-GDPR Compliance = “Yes”
+- GDPR Compliance = “Yes”
 
-Additional KPIs:
+- Additional KPIs:
 
-Email completion rate
+  - Email completion rate
 
-VAT completion rate
+  - VAT completion rate
 
-% of GDPR compliant records
+  - % of GDPR compliant records
 
-Average age of data (last update)
+  - Average age of data (last update)
 
 % of records updated within the last year
 
 3. Power BI Dashboard
-Three interactive pages:
+- Three interactive pages:
 
 🧭 Executive Summary
-High-level KPIs
+- High-level KPIs
 
-World map by country
+- World map by country
 
-Global completion & compliance rates
+- Global completion & compliance rates
+
+- Data freshness indicator (average age)
 
 🧪 Data Quality
-Quality score distribution
+- Quality score distribution
 
-Attribute-level completion stats
+- Attribute-level completion stats
 
-Data freshness indicator (average age)
-
-Country-level quality map
+- Country-level quality map
 
 ✅ GDPR Compliance
-GDPR compliance heatmap by country
+- GDPR compliance heatmap by country
 
-Focus on non-compliant suppliers
-
-Cross-analysis: compliance vs. quality
+- Focus on non-compliant suppliers
 
 🎯 Key Takeaways
-Applied data governance principles
+- Applied data governance principles
 
-Linked data quality to regulatory risk
+- Linked data quality to regulatory risk
 
-Included data freshness as a decision factor
+- Included data freshness as a decision factor
 
-Built a dashboard with clear storytelling
+- Built a dashboard with clear storytelling
+
+🚀 Next Steps (improvements)
+- Add a relational data model
+
+- Expand with supplier contracts or purchase orders
+
+- Automate the pipeline with scheduling and monitoring tools
 
