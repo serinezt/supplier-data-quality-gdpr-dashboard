@@ -9,6 +9,10 @@
 This project showcases my ability to analyze supplier master data with a focus on data quality, freshness, and GDPR compliance.
 The use case simulates a luxury industry context, where data accuracy and regulatory compliance are essential. The goal is to deliver a dashboard that supports data governance and drives decision-making.
 
+The dataset used in this project is a simplified simulation. I am aware that the real world, involves much larger volumes, more varied data, and more complex business rules.
+
+This approach aims to demonstrate my ability to translate business challenges into relevant and actionable indicators, as well as my mastery of data engineering and visualization tools.
+
 🛠️ Tech Stack
 🐍 Python / Jupyter Notebook: Synthetic data generation and KPI calculations
 
