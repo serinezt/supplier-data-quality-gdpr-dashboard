@@ -82,6 +82,8 @@ Data Quality Score (0 to 100), based on:
 
 - Built a dashboard with clear storytelling
 
+Some calculations in this project have been simplified for demonstration purposes; in an industrial context, these verifications would be complemented by formal validation processes to ensure higher data quality.
+
 🚀 Next Steps (improvements)
 - Add a relational data model
 
