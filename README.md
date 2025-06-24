@@ -1,4 +1,8 @@
 🧾 Supplier Data Quality & GDPR Compliance Dashboard – Luxury Sector
+![image](https://github.com/user-attachments/assets/59b164ec-01dc-409c-af15-aa1e468227d1)
+![image](https://github.com/user-attachments/assets/c2fcfd06-7d82-4761-a4eb-e1cf0fbc3ba6)
+![image](https://github.com/user-attachments/assets/89d1baaa-12a0-4a9b-bb2d-c1af971ba947)
+
 📌 Project Objective
 This project showcases my ability to analyze supplier master data with a focus on data quality, freshness, and GDPR compliance.
 The use case simulates a luxury industry context, where data accuracy and regulatory compliance are essential. The goal is to deliver a dashboard that supports data governance and drives decision-making.
