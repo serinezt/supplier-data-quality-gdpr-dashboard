@@ -80,8 +80,6 @@ Data Quality Score (0 to 100), based on:
 🎯 Key Takeaways
 - Applied data governance principles
 
-- Linked data quality to regulatory risk
-
 - Included data freshness as a decision factor
 
 - Built a dashboard with clear storytelling
